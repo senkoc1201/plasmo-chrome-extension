@@ -1,6 +1,7 @@
 # Aero Shipping Extension
 
 A Chrome extension that provides a user-friendly interface for car shipping services, built with modern web technologies.
+Install build/chrome-mv3-prod
 
 ## Project Overview
 
